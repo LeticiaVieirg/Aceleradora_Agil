@@ -27,13 +27,13 @@ Este é um sistema de gerenciamento de inventário baseado em Python. Ele permit
 
 2. **Clone o repositório**:
    ```bash
-   git clone <https://github.com/LeticiaVieirg/Aceleradora_Agil.git>
-   cd <Aceleradora_Agil>
+   git clone https://github.com/LeticiaVieirg/Aceleradora_Agil.git
+   cd Aceleradora_Agil
    ```
 
 3. **Execute o programa**:
    ```bash
-   python <main.py>.py
+   python main.py
    ```
 
 ## Estrutura do Projeto
