@@ -27,7 +27,7 @@ Este é um sistema de gerenciamento de inventário baseado em Python. Ele permit
 
 2. **Clone o repositório**:
    ```bash
-   git clone <   >
+   git clone <https://github.com/LeticiaVieirg/Aceleradora_Agil.git>
    cd <Aceleradora_Agil>
    ```
 
