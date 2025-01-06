@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "coffee",
+        "category": "1",
+        "quantity": 12,
+        "price": 23.0
+    }
+]
